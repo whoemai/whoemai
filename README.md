@@ -21,5 +21,7 @@
   <img aling="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
 
+![Snake animation](https://github.com/whoemai/whoemai/blob/output/github-contribution-grid-snake.svg)
+
 Apaixoonado por tecnologia e por mudar a vida das pessoas através da programação
 
