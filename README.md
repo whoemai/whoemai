@@ -23,5 +23,5 @@
 
 ![Snake animation](https://github.com/whoemai/whoemai/blob/output/github-contribution-grid-snake.svg)
 
-Apaixoonado por tecnologia e por mudar a vida das pessoas através da programação
+Apaixonado por tecnologia e por mudar a vida das pessoas através da programação
 
