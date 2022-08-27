@@ -6,9 +6,11 @@
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511940708204&text=Ol%C3%A1%20Pedro%20tudo%20bem%3F%20Vim%20aqui%20pois%20tive%20interesse%20no%20seu%20perfil%20no%20Github)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://api.whatsapp.com/send?phone=5511940708204&text=Ol%C3%A1%20Pedro%20tudo%20bem%3F%20Vim%20aqui%20pois%20tive%20interesse%20no%20seu%20perfil%20no%20Github)
 
-![whoemai GitHub stats](https://github-readme-stats.vercel.app/api?username=whoemai&show_icons=true&theme=merko)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whoemai&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/whoemai">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=whoemai&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoemai&layout=compact&langs_count=7&theme=merko"/>
+</div>
 
 ## Tecnologias que eu uso no meu dia
 
