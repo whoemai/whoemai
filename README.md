@@ -1,5 +1,5 @@
 
-### Olá eu sou o Pedro Fernandes 👋
+### Hello, I'm Pedro Fernandes 👋
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-moura-tecnologia/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eldropeernandes/)
@@ -12,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoemai&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
-## Tecnologias que eu uso no meu dia
+## Technologies I use in my day
 
 <div style="display: inline_block"><br/>
   <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -24,5 +24,4 @@
 
 ![Snake animation](https://github.com/whoemai/whoemai/blob/output/github-contribution-grid-snake.svg)
 
-Apaixonado por tecnologia e por mudar a vida das pessoas através da programação
-
+Passionate about technology and changing people's lives through programming
