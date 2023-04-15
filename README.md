@@ -2,7 +2,7 @@
 	✅Bem vindo ao meu GitHub🚀
 </h1>
 
-### 👦 Sobre mim :seedling: : 
+### 👦 Sobre mim: 
 > - 👋 Me chamo **Pedro Fernandes**, tenho 20 anos.
 > - 📌 De Guarulhos, São Paulo, Brazil.
 > - 🎓 Cursando Análise e desenvolvimento de sistemas na Cruzeiro do Sul.
