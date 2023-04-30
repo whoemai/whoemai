@@ -5,7 +5,7 @@
 ### 👦 Sobre mim: 
 > - 👋 Me chamo **Pedro Fernandes**, tenho 20 anos.
 > - 📌 De Guarulhos, São Paulo, Brazil.
-> - 🎓 Cursando Análise e desenvolvimento de sistemas na Cruzeiro do Sul.
+> - 🎓 Cursando Análise e desenvolvimento de sistemas.
 
 ### 🌎 My networks:
 <div style="display: inline_block">
