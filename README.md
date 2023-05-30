@@ -2,14 +2,6 @@
 	✅Welcome to my GitHub🚀
 </h1>
 
-### 🌎 My networks:
-<a href="https://www.linkedin.com/in/pedro-moura-technology/" target="_blank">
-  <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/eldropeernandes/" target="_blank">
-  <img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eldropeernandes/" />
-</a>
-  
 ### ⚡ Skills:
 <div style="display: inline_block">
   <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
