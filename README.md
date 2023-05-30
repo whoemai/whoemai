@@ -1,11 +1,11 @@
 <h1 align="center"> 
-	✅Bem vindo ao meu GitHub🚀
+	✅Welcome to my GitHub🚀
 </h1>
 
-### 👦 Sobre mim: 
-> - 👋 Me chamo **Pedro Fernandes**, tenho 20 anos.
-> - 📌 De Guarulhos, São Paulo, Brazil.
-> - 🎓 Cursando Análise e desenvolvimento de sistemas.
+### 👦 About of me: 
+> - 👋 My name is **Pedro Fernandes**, I'm 20 years old.
+> - 📌 From Guarulhos, São Paulo, Brazil.
+> - 🎓 Studying systems analysis and development.
 
 ### 🌎 My networks:
 <div style="display: inline_block">
