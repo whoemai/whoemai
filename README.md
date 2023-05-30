@@ -2,11 +2,6 @@
 	✅Welcome to my GitHub🚀
 </h1>
 
-### 👦 About of me: 
-> - 👋 My name is **Pedro Fernandes**, I'm 20 years old.
-> - 📌 From Guarulhos, São Paulo, Brazil.
-> - 🎓 Studying systems analysis and development.
-
 ### 🌎 My networks:
 <a href="https://www.linkedin.com/in/pedro-moura-technology/" target="_blank">
   <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
