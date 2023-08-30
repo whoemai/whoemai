@@ -24,10 +24,3 @@
   <img aling="center" alt="jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
   <img aling="center" alt="azure" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
 </div>
-
-<br>
-<div align="center">
-  <a href="https://github.com/whoemai">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=whoemai&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoemai&layout=compact&langs_count=7&theme=merko"/>
-</div>
